@@ -1,0 +1,36 @@
+pre {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+       
+button a{
+    list-style-type: none;
+    display: inline;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    overflow: hidden;
+    float: right;
+    text-align: left;
+}
+button{
+    margin-top:20px;
+    margin-left:120px;
+    float:left;
+    background-color: black;
+    border:none;
+    cursor: pointer;
+}
+button :hover{
+    background-color:red;
+}
+div{
+    background-color:darkslategrey;
+    color: white;
+    padding: 5px;
+}
+pre{
+
+    font-size: 50px;
+}
+
